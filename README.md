@@ -14,9 +14,7 @@ I'm a passionate developer with expertise in python, machine learning, natural l
 | **Cloud Service Provider**       | ![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat) ![Snowflake Badge](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)                                                                                                                                                                                                                                               |
 📫 **How to Reach Me:**
 
--  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daivikhrajesh)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:daivurajesh@gmail.com)
--  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/daivikh7)
+-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daivikhrajesh) - [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:daivurajesh@gmail.com) -  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/daivikh7)
 
 
 ### GitHub Streak:
