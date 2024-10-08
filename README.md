@@ -12,6 +12,11 @@ I'm a passionate developer with expertise in python, machine learning, natural l
 | **Developer Tools**              | ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat) ![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![MLOps Badge](https://img.shields.io/badge/-MLOps-blue) |
 | **Frameworks & Tools**           | ![Flask Badge](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Kafka Badge](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat) |
 | **Cloud Service Provider**       | ![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat) ![Snowflake Badge](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)                                                                                                                                                                                                                                               |
+📫 **How to Reach Me:**
+
+- **LinkedIn**: [Daivikhrajesh's LinkedIn](https://www.linkedin.com/in/daivikhrajesh)
+- **Gmail**: [daivikhrajesh@gmail.com](mailto:daivurajesh@gmail.com)
+- **Twitter**: [@Daivikhrajesh](https://x.com/daivikh7)   
 
 
 ### GitHub Streak:
