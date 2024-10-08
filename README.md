@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Daivikh+Rajesh+Mysuru!;Welcome+to+my+Profile!;Machine+learning+enthusiast!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Daivikh+Rajesh!;Welcome+to+my+Profile!;Machine+learning+enthusiast!)](https://git.io/typing-svg)
 
 ## 🚀 Skills and Technologies
 
