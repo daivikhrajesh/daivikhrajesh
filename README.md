@@ -1,6 +1,5 @@
 # 👋 Hi, Welcome to my Profile !
 
-I'm a passionate developer with expertise in python, machine learning, natural language processing. Below is a quick overview of my skills and the technologies I work with.
 
 ## 🚀 Skills and Technologies
 
