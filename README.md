@@ -27,8 +27,3 @@
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daivikhrajesh&layout=compact&theme=radical)
 
-## Certifications
-
-[![Machine Learning with Python](https://example.com/ml-badge.png)](https://www.freecodecamp.org/certification/fcca1d372b3-b069-40ee-bf71-4899a93a457e/machine-learning-with-python-v7)
-
-
