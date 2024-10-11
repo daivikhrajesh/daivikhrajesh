@@ -27,3 +27,6 @@
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daivikhrajesh&layout=compact&theme=radical)
 
+
+![Certificate Badge](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true)
+
