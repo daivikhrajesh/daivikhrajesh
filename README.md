@@ -29,9 +29,26 @@
 
 ## My Certifications
 
-| ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(122).png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(123).png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(124).png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/genai.png?raw=true) |
-|---|---|---|---|
-| ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/hackerrank.png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/llm.png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/transformers.png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true) |
-| ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/microsoft-certified-azure-fundamentals.png?raw=true) |
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(122).png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+  
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(123).png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+  
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(124).png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+  
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/genai.png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/hackerrank.png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/llm.png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/transformers.png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/microsoft-certified-azure-fundamentals.png?raw=true" style="border-radius: 10px; margin: 5px; width: calc(25% - 10px);">
+
+</div>
 
 
