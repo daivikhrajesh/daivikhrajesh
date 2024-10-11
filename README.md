@@ -30,8 +30,6 @@
 ## My Certifications
 
 | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(122).png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(123).png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(124).png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/genai.png?raw=true) |
-
 |---|---|---|---|
 | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/hackerrank.png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/llm.png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/transformers.png?raw=true) | ![](https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true) |
-
 
