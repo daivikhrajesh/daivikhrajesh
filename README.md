@@ -30,12 +30,13 @@
 ## My Certifications
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(122).png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(123).png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(124).png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/genai.png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/hackerrank.png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/llm.png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/transformers.png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true" style="width: 23%; margin: 1%; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(122).png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(123).png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(124).png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/genai.png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/hackerrank.png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/llm.png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/transformers.png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true" style="height: 150px; margin: 5px; border-radius: 10px;">
 </div>
+
