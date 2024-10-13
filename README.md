@@ -33,12 +33,28 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/microsoft-certified-azure-fundamentals.png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
   <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(122).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-  
+
   <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(123).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-  
+
   <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(124).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-  
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(125).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(126).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(127).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(128).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(129).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
+  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(130).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
+
   <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/genai.png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
 
   <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/hackerrank.png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
@@ -47,15 +63,8 @@
 
   <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/transformers.png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
 
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(121).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/microsoft-certified-azure-fundamentals.png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(128).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-  
-  <img src="https://github.com/daivikhrajesh/daivikhrajesh/blob/main/images/Screenshot%20(129).png?raw=true" style="border-radius: 10px; margin: 0; width: 23%;">
-
 </div>
+
 
 
 
